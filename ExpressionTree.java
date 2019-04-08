@@ -1,7 +1,5 @@
 public class ExpressionTree{
 
-
-
   /*return the expression as an infix notation string with parenthesis*/
   /* The sample tree would be: "(3 + (2 * 10))"     */
   public String toString(){
